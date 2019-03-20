@@ -1,5 +1,7 @@
-# Testing and segmenting the images
 
+#Credit to Ahmed Fajem, on of my partners in this project
+#This code was used to expand the burr cell data set from 400 to 
+#4000 images using image rotations and reflections
 
 
 from os import listdir
