@@ -4,6 +4,4 @@ and classify them as abnormal or healthy. With the inital development of of this
 interested in burr cells and healthy cells leaving us with a binary classification. We plan to expand this 
 classification to include sickle cells and white blood cell identification.
 
-Looking at the files in this respoitory you will find the tensorflow model, the code used to create the model, 
-the rotations file used to expand the training set, the segmentation code used to identify every cell in 
-an image seperately and later on the webapp UI in which the model was deployed on.
+Due to the nature of project, only a portion of the code can be shared publicly. 
